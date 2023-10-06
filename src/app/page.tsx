@@ -19,7 +19,7 @@ export default function Home() {
           using <span className='text-red-600'>AI</span>
         </h1>
         <p className='mt-5 max-w-prose text-zinc-700 sm:text-lg'>
-        Need help with summarizing notes or finding information quickly? 
+        Need help summarizing notes or finding information quickly? 
         </p>
 
         <Link
@@ -89,14 +89,7 @@ export default function Home() {
             </h2>
             <p className='mt-5 max-w-prose text-zinc-700 sm:text-lg'>
             <span className='mt-2 text-zinc-700'>
-                Sign-up, upload and chat.
-                Upgrade to {' '}
-                <Link
-                  href='/pricing'
-                  className='text-blue-700'>
-                  Pro Plan
-                </Link>
-                {' '} for larger files
+                Sign-up, upload and chat. Try it out for free!
               </span>
         </p>
             <p className='mt-4 text-lg text-gray-600'>
