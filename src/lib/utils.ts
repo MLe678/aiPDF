@@ -40,15 +40,8 @@ export function constructMetadata({
         }
       ]
     },
-    twitter: {
-      card: "summary_large_image",
-      title,
-      description,
-      images: [image],
-      creator: "@joshtriedcoding"
-    },
     icons,
-    metadataBase: new URL('https://aipdf.vercel.app'),
+    metadataBase: new URL('https://aipdf-mle678.vercel.app/'),
     themeColor: '#FFF',
     ...(noIndex && {
       robots: {

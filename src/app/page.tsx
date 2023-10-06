@@ -19,7 +19,7 @@ export default function Home() {
           using <span className='text-red-600'>AI</span>
         </h1>
         <p className='mt-5 max-w-prose text-zinc-700 sm:text-lg'>
-        Need help with homework, summarizing notes or finding information quickly? 
+        Need help with summarizing notes or finding information quickly? 
         </p>
 
         <Link
